@@ -26,6 +26,7 @@ The following libraries are included:
 
 **Files in the repository:**
 * [Starbucks_Capstone_notebook.ipynb]: Jupyter notebook where the data cleaning, exploration, and analysis is done
+* [blog]: blog post on meduim website to show the project analysis 
 * [data]: contains 3 json files
   * portfolio.json: information about each offer Starbucks sent
   * profile.json: customers demographical inforamtion
